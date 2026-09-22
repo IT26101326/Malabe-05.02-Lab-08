@@ -14,7 +14,7 @@ public class IT26101326Lab8Q3 {
                 System.out.println("Error: Please Enter ONLY Positive Numbers");
             } else {
                 numbers[i] = num;
-                i++;   // valid number-ஆ இருந்தா தான் அடுத்த position-க்கு போகும்
+                i++;   // valid number-
             }
         }
         
