@@ -26,7 +26,7 @@ public class IT26101326Lab8Q4 {
         for (int j = 0; j < 8; j++) {
             if (studentsArray[j] == searchId) {
                 found = true;
-                break;   // find ஆனதும் loop-ஐ stop பண்ணு
+                break;   
             }
         }
         
